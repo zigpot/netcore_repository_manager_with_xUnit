@@ -162,5 +162,15 @@ namespace xUnitTest
 
         }
 
+        [Fact]
+        public void Deregister_GivenitemName()
+        {
+            formulatrix.Register("item2", "<to>tru3</to><title>Greetings</title><body>Hithere</body>", 2);
+            formulatrix.Deregister("item2");
+
+            Assert.Equal(0, formulatrix.GetType("item2"));
+
+        }
+
     }
 }

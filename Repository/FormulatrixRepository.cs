@@ -150,7 +150,17 @@ namespace Repository
 
         public void Deregister(string itemName)
         {
-            throw new NotImplementedException();
+            if (this.itemsContext.Count() > 0)
+            {
+                var docs = this.itemsContext.Where(a => a.Key.itemName == itemName);
+
+                if (docs.Count() > 0)
+                {
+                    var doc = this.itemsContext.Where(a => a.Key.itemName == itemName).First();
+                    this.itemsContext.Remove(doc.Key);
+                }
+            }
+
         }
 
         public void Dispose()
