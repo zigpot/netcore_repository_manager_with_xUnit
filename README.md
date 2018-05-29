@@ -13,7 +13,7 @@ Windows
 
 https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.200-windows-x64-installer
 
-# How to Run Test with xUnit with dotnet CLI
+# How to Run Test with xUnit ( dotnet CLI )
 
 Open your terminal on your Mac or Command Prompt Windows;
 
