@@ -22,3 +22,7 @@ Open your terminal on your Mac or Command Prompt Windows;
 > cd netcore_repository_manager_with_xUnit
 
 > dotnet build Formulatrix.sln 
+
+> cd xUnitTest
+
+> dotnet test
