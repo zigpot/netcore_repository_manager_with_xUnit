@@ -15,8 +15,10 @@ https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.200-windows-x64-
 
 # How to Run Test with xUnit with dotnet CLI
 
-Open your terminal or Command Prompt;
+Open your terminal on your Mac or Command Prompt Windows;
 
-git clone https://github.com/tru3d3v/netcore_repository_manager_with_xUnit.git
+> git clone https://github.com/tru3d3v/netcore_repository_manager_with_xUnit.git
 
-cd netcore_repository_manager_with_xUnit
+> cd netcore_repository_manager_with_xUnit
+
+> dotnet build Formulatrix.sln 
