@@ -30,3 +30,25 @@ Open your terminal on your Mac or Command Prompt Windows;
 
 # Screenshoot xUnitTest ( dotnet CLI )
 ![alt text](https://cdn.pbrd.co/images/HnlP6Xk.png)
+
+
+# List Of xUnitTest
+
+[Theory]
+[InlineData("item1","{\"to\":\"tru3.d3v@gmail.com\",\"title\":\"Greetings\",\"body\":\"Hi there!\"}",1)]
+[InlineData("item2", "<to>tru3</to><title>Greetings</title><body>Hithere</body>", 2)]
+ReturnTrue_GivenParameters_RegisteringJSONXML
+
+[Fact]
+ReturnFalse_GivenDuplicatedItemNameAndItemType_RegisteringJSON
+ReturnFalse_GivenDuplicatedItemNameAndItemType_RegisteringXML
+ReturnFalse_GivenNoInputParameters_Registering
+Return1_GivenitemName_getType
+Return2_GivenitemName_getType
+Return0_GivenitemNameWrong_getType
+ReturnStringXML_GivenitemName_Retrieve
+ReturnStringJson_GivenitemName_Retrieve
+ReturnStringEmpty_GivenitemNameWrong_Retrieve
+
+
+
