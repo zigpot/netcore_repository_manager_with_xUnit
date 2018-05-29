@@ -12,3 +12,8 @@ https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.200-macos-x64-in
 Windows
 
 https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.200-windows-x64-installer
+
+# How to Run
+
+git clone https://github.com/tru3d3v/netcore_repository_manager_with_xUnit.git
+
