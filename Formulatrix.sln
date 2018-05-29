@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{21A2A2AA-56D9-4584-A394-B8D026F07315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{4127FC24-CAB8-4E05-858F-0AC9FA7779D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21A2A2AA-56D9-4584-A394-B8D026F07315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21A2A2AA-56D9-4584-A394-B8D026F07315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21A2A2AA-56D9-4584-A394-B8D026F07315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21A2A2AA-56D9-4584-A394-B8D026F07315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4127FC24-CAB8-4E05-858F-0AC9FA7779D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4127FC24-CAB8-4E05-858F-0AC9FA7779D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4127FC24-CAB8-4E05-858F-0AC9FA7779D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4127FC24-CAB8-4E05-858F-0AC9FA7779D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A93399E-4ADF-43D4-B6D8-BB445BDAD543}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
