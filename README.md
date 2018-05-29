@@ -2,7 +2,7 @@
 A Repository manager is a library that can be used to store and retrieve JSON string or XML string. A unique string is used to indicate the item being stored.
 
 # Prerequisite
-
+Download and Install GIT Client https://git-scm.com/downloads
 Download and install .NET Core SDK
 
 Mac OS
@@ -13,7 +13,10 @@ Windows
 
 https://www.microsoft.com/net/download/thank-you/dotnet-sdk-2.1.200-windows-x64-installer
 
-# How to Run Test with xUnit
+# How to Run Test with xUnit with dotnet CLI
+
+Open your terminal or Command Prompt;
 
 git clone https://github.com/tru3d3v/netcore_repository_manager_with_xUnit.git
 
+cd netcore_repository_manager_with_xUnit
