@@ -1,0 +1,8 @@
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/bin/Debug/netcoreapp2.0/Services.deps.json
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/bin/Debug/netcoreapp2.0/Services.dll
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/bin/Debug/netcoreapp2.0/Services.pdb
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.csproj.CoreCompileInputs.cache
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.AssemblyInfoInputs.cache
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.AssemblyInfo.cs
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.dll
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.pdb
