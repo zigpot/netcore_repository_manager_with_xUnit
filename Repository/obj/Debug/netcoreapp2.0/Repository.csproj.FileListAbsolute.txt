@@ -1,0 +1,11 @@
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/bin/Debug/netcoreapp2.0/Repository.deps.json
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/bin/Debug/netcoreapp2.0/Repository.dll
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/bin/Debug/netcoreapp2.0/Repository.pdb
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/bin/Debug/netcoreapp2.0/Services.dll
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/bin/Debug/netcoreapp2.0/Services.pdb
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.csprojResolveAssemblyReference.cache
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.csproj.CoreCompileInputs.cache
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.AssemblyInfoInputs.cache
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.AssemblyInfo.cs
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.dll
+/Users/muchlis/Documents/2018/JobTesting/Formulatrix/Repository/obj/Debug/netcoreapp2.0/Repository.pdb
