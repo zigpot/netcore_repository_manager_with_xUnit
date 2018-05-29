@@ -28,4 +28,4 @@ Open your terminal on your Mac or Command Prompt Windows;
 > dotnet test
 
 
-![alt text](https://pasteboard.co/HnlP6Xk.png)
+![alt text](https://cdn.pbrd.co/images/HnlP6Xk.png)
