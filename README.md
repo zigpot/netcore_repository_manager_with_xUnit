@@ -29,7 +29,7 @@ Open your terminal on your Mac or Command Prompt Windows;
 
 
 # Screenshoot xUnitTest ( dotnet CLI )
-![alt text](https://cdn.pbrd.co/images/HnlP6Xk.png)
+![alt text](https://cdn.pbrd.co/images/Hnm3FAH.png)
 
 
 # List Of xUnitTest
@@ -62,5 +62,5 @@ ReturnStringJson_GivenitemName_Retrieve
 
 ReturnStringEmpty_GivenitemNameWrong_Retrieve
 
-
+Deregister_GivenitemName
 
