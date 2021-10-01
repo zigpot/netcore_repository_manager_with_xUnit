@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Repository
+build_property.ProjectDir = /home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/

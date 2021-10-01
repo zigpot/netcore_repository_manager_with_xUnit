@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/xUnitTest/xUnitTest.csproj": {}
+  },
+  "projects": {
+    "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/Repository.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj": {
+                "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj",
+        "projectName": "Services",
+        "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/xUnitTest/xUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/xUnitTest/xUnitTest.csproj",
+        "projectName": "xUnitTest",
+        "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/xUnitTest/xUnitTest.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/xUnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/Repository.csproj": {
+                "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Repository/Repository.csproj"
+              },
+              "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj": {
+                "projectPath": "/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/140/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

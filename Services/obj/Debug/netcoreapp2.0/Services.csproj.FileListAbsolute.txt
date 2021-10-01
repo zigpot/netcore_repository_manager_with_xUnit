@@ -6,3 +6,13 @@
 /Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.AssemblyInfo.cs
 /Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.dll
 /Users/muchlis/Documents/2018/JobTesting/Formulatrix/Services/obj/Debug/netcoreapp2.0/Services.pdb
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/netcoreapp2.0/Services.deps.json
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/netcoreapp2.0/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/netcoreapp2.0/Services.pdb
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.csproj.AssemblyReference.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.AssemblyInfoInputs.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.AssemblyInfo.cs
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.csproj.CoreCompileInputs.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/netcoreapp2.0/Services.pdb

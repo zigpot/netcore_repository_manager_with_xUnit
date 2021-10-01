@@ -1,0 +1,12 @@
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/net5.0/Services.deps.json
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/net5.0/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/net5.0/ref/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/bin/Debug/net5.0/Services.pdb
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.csproj.AssemblyReference.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.csproj.CoreCompileInputs.cache
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/ref/Services.dll
+/home/fariz/Prog/dotnet/netcore_repository_manager_with_xUnit/Services/obj/Debug/net5.0/Services.pdb
